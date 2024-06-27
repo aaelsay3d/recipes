@@ -2,7 +2,7 @@
 ![The Website Demo](./images/demo.gif)
 
 ## Project Overview
-This project is a basic recipe website built to practice HTML skills. 
+This project is a recipe website built to practice basic HTML elements and skills including boilerplate, paragraphs, headings, lists, links, images, and website file organization.
 
 ## Tech/Framework Used
 - HTML
